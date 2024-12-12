@@ -4,8 +4,8 @@ A Python GUI application for network scanning that allows you to discover active
 
 ## Author
 
-**Dave**
-- GitHub: [dave](https://github.com/dave)
+**David Pospishil**
+- GitHub: [David Pospishil](https://github.com/daveposh)
 - Created: December 2024
 
 ## Features
