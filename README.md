@@ -32,8 +32,8 @@ A Python GUI application for network scanning that allows you to discover active
 
 1. Clone the repository or download the source code:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/daveposh/PyScanner.git
+cd PyScanner
 ```
 
 2. Create and activate a virtual environment (recommended):
